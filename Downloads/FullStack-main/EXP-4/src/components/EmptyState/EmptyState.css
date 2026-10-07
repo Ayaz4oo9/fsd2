@@ -1,0 +1,17 @@
+.empty-state {
+  text-align: center;
+  padding: 48px 24px;
+  color: #4a5568;
+}
+
+.empty-state__title {
+  font: 700 18px 'Space Grotesk', sans-serif;
+  color: #1a3636;
+  margin-bottom: 8px;
+}
+
+.empty-state__message {
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #4a5568;
+}
